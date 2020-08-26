@@ -8,3 +8,5 @@ r3---sn-5hnednlk.googlevideo.com
 r1---sn-5hne6nsr.googlevideo.com
 r3---sn-5hne6nlr.googlevideo.com
 r3---sn-5hnednlr.googlevideo.com
+r3---sn-5hne6nsr.googlevideo.com
+r5---sn-5hne6nsz.googlevideo.com
